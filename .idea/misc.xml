@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="432" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/parseIndexHTML.ts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="796" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/index/with0.html" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="1185" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/fixETMLHYGC.ts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="776" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/indexParser.ts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="313" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/alt_index.ts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="422" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/index.ts" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="0" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/.gitignore" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
+</project>

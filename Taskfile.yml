@@ -1,0 +1,14 @@
+version: '3'
+
+includes:
+  ide: ./scripts/ide.yml
+
+tasks:
+  setup: 
+    desc: Setup the workspace
+    cmds:
+      - pnpm install
+  start:
+    desc: Start the program
+    cmds:
+      - ts-node index.ts {{.CLI_ARGS}}

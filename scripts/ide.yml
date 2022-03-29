@@ -1,0 +1,19 @@
+version: '3'
+
+tasks:
+  status:
+    desc: Gets IDE status
+    cmds:
+      - webstorm status .
+  start:
+    desc: Starts WebStorm Gateway IDE
+    cmds:
+      - tmux new -s "webstorm@parser" -d 'while true; do webstorm run .; done'
+  enter:
+    desc: Access tmux session
+    cmds:
+      - tmux at -t "webstorm@parser"
+  stop:
+    desc: Stop WebStorm Gateway IDE
+    cmds:
+      - tmux kill-session -t "webstorm@parser"
